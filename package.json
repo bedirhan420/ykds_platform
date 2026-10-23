@@ -1,0 +1,7 @@
+{
+  "name": "ykds-platform",
+  "version": "2.0.0",
+  "private": true,
+  "description": "YKDS çalışma platformu: hesaplı, sunucuda kayıtlı sürüm",
+  "engines": { "node": "22.x" }
+}
